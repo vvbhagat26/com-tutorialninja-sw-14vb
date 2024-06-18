@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Regression Test Pack"
+           tests="3"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="5.892">
+  <properties />
+  
+  
+            <testcase name="verifyUserShouldNavigateToDesktopsPageSuccessfully" time="2.837" classname="com.tutorialsninja.demo.testsuite.TopMenuTest" />
+                <testcase name="verifyUserShouldNavigateToComponentsPageSuccessfully" time="1.269" classname="com.tutorialsninja.demo.testsuite.TopMenuTest" />
+                <testcase name="verifyUserShouldNavigateToLaptopsAndNotebooksPageSuccessfully" time="1.786" classname="com.tutorialsninja.demo.testsuite.TopMenuTest" />
+      
+</testsuite>
